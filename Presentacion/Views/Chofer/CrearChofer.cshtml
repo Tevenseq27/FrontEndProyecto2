@@ -1,0 +1,59 @@
+﻿@model Presentacion.Models.ChoferModel
+
+@{
+    ViewData["Title"] = "CrearChofer";
+}
+
+<h1>Crear Chofer</h1>
+
+<h4>Ingrese los datos:</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Guardar" asp-controller="Chofer" method="post">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdChofer" class="control-label"></label>
+                <input asp-for="IdChofer" class="form-control" />
+                <span asp-validation-for="IdChofer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombre1Chofer" class="control-label"></label>
+                <input asp-for="Nombre1Chofer" class="form-control" />
+                <span asp-validation-for="Nombre1Chofer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombre2Chofer" class="control-label"></label>
+                <input asp-for="Nombre2Chofer" class="form-control" />
+                <span asp-validation-for="Nombre2Chofer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Apellido1Chofer" class="control-label"></label>
+                <input asp-for="Apellido1Chofer" class="form-control" />
+                <span asp-validation-for="Apellido1Chofer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Apellido2Chofer" class="control-label"></label>
+                <input asp-for="Apellido2Chofer" class="form-control" />
+                <span asp-validation-for="Apellido2Chofer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TelefonoChofer" class="control-label"></label>
+                <input asp-for="TelefonoChofer" class="form-control" />
+                <span asp-validation-for="TelefonoChofer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

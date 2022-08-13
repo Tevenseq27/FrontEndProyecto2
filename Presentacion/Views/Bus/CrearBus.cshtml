@@ -1,0 +1,43 @@
+﻿@model Presentacion.Models.BusModel
+
+@{
+    ViewData["Title"] = "CrearBus";
+}
+
+<h1>Creación nuevo bus</h1>
+
+<h4>Ingrese los datos:</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Guardar" asp-controller="Bus" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PlacaUnidad" class="control-label"></label>
+                <input asp-for="PlacaUnidad" class="form-control" />
+                <span asp-validation-for="PlacaUnidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumeroUnidad" class="control-label"></label>
+                <input asp-for="NumeroUnidad" class="form-control" />
+                <span asp-validation-for="NumeroUnidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstadoUnidad" class="control-label"></label>
+                <input asp-for="EstadoUnidad" class="form-control" />
+                <span asp-validation-for="EstadoUnidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

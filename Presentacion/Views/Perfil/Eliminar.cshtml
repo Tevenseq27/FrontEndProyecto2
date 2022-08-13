@@ -1,0 +1,41 @@
+﻿@model Presentacion.Models.PerfilModel
+
+@{
+    ViewData["Title"] = "Eliminar";
+}
+
+<h1>Eliminar Perfil</h1>
+
+<h3>¿Seguro desea eliminar este registro?</h3>
+<div>
+    <h4>ReservaModel</h4>
+    <hr />
+
+    <form asp-action="Eliminar_Perfil" asp-controller="Perfil" method="post">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="CodigoPerfil" class="control-label"></label>
+            <input asp-for="CodigoPerfil" readonly="readonly" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="NombrePerfil" class="control-label"></label>
+            <input asp-for="NombrePerfil" readonly="readonly" class="form-control" />
+            <span asp-validation-for="NombrePerfil" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Estado" class="control-label"></label>
+            <input asp-for="Estado" readonly="readonly" class="form-control" />
+            <span asp-validation-for="Estado" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+        </div>
+
+    </form>
+    <div>
+        <br />
+        <a asp-action="Index">Volver a la lista</a>
+    </div>
+</div>

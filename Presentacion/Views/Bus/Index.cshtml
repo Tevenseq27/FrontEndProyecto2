@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Presentacion.Models.BusModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="CrearBus" asp-controller="Bus">Crear nuevo Bus</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PlacaUnidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroUnidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstadoUnidad)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlacaUnidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroUnidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstadoUnidad)
+            </td>
+            <td>
+                @Html.ActionLink("Modificar", "EditaBus", "Bus", new { item.PlacaUnidad }, new { @class = "btn btn-primary" }) |
+                @Html.ActionLink("Eliminar", "Eliminar", "Bus", new { item.PlacaUnidad }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
