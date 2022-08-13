@@ -1,0 +1,686 @@
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.xml
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\scopedcss\bundle\Presentacion.styles.css
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\CrearCliente.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\EditaCliente.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Eliminar.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\CrearHabitacion.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\EditaHabitacion.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\Eliminar.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\Index.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\CrearReserva.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\EditaReserva.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\Eliminar.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\Index.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dafny\Documents\Proyecto1\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.xml
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\scopedcss\bundle\Presentacion.styles.css
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\CrearCliente.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\EditaCliente.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Eliminar.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\CrearHabitacion.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\EditaHabitacion.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\Eliminar.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\Index.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\CrearReserva.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\EditaReserva.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\Eliminar.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\Index.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\dafny\OneDrive\Documentos\GitHub\Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.xml
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\scopedcss\bundle\Presentacion.styles.css
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\CrearBus.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\EditaBus.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\Eliminar.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\Index.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\CrearHabitacion.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\EditaHabitacion.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\Eliminar.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Habitacion\Index.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\CrearReserva.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\EditaReserva.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\Eliminar.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\Index.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\SSequeira\Downloads\Universidad\Programación Avanzada\Proyecto 2\Proyecto2\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.xml
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\scopedcss\bundle\Presentacion.styles.css
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\CrearBus.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\EditaBus.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\Eliminar.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\Index.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Chofer\CrearChofer.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Chofer\EditaChofer.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Chofer\Eliminar.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Chofer\Index.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\CrearPerfil.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\EditaPerfil.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Eliminar.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Index.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.xml
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\scopedcss\bundle\Presentacion.styles.css
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\CrearBus.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\EditaBus.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\Eliminar.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Bus\Index.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Chofer\CrearChofer.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Chofer\EditaChofer.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Chofer\Eliminar.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Chofer\Index.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdminUsuarios.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaginaProtegida.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Manage\ErrorAcceso.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Manage\LogIn.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\CrearPerfil.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\EditaPerfil.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Eliminar.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Perfil\Index.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuLogIn.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+E:\Github\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+E:\Github\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
