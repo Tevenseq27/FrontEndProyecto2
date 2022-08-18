@@ -119,43 +119,43 @@ namespace Presentacion.Controllers
         }
         #endregion
 
-        #region PERFIL
-        public async Task<List<PerfilModel>> ListarPerfil(PerfilModel P_Entidad)
+        #region USUARIO
+        public async Task<List<UsuariosModel>> ListarUsuario(UsuariosModel P_Entidad)
         {
-            List<PerfilModel> lstresultados = new List<PerfilModel>();
+            List<UsuariosModel> lstresultados = new List<UsuariosModel>();
             GestorDeConexiones();
-            string url = "api/Proyecto2/ConsultarPerfil";
+            string url = "api/Proyecto2/ConsultarUsuario";
             HttpResponseMessage resultado = await Cliente.GetAsync(url);
 
             if (resultado.IsSuccessStatusCode)
             {
                 var jsonSTRING = await resultado.Content.ReadAsStringAsync();
-                lstresultados = JsonConvert.DeserializeObject<List<PerfilModel>>(jsonSTRING);
+                lstresultados = JsonConvert.DeserializeObject<List<UsuariosModel>>(jsonSTRING);
             }
 
             return lstresultados;
         }
 
-        public async Task<bool> AgregarPerfil(PerfilModel P_Modelo)
+        public async Task<bool> AgregarUsuario(UsuariosModel P_Modelo)
         {
             GestorDeConexiones();
-            string url = "api/Proyecto2/AgregarPerfil";
+            string url = "api/Proyecto2/AgregarUsuario";
             HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
             return resultado.IsSuccessStatusCode;
         }
 
-        public async Task<bool> EliminarPerfil(PerfilModel P_Modelo)
+        public async Task<bool> EliminarUsuario(UsuariosModel P_Modelo)
         {
             GestorDeConexiones();
-            string url = "api/Proyecto2/EliminarPerfil";
+            string url = "api/Proyecto2/EliminarUsuario";
             HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
             return resultado.IsSuccessStatusCode;
         }
 
-        public async Task<bool> ModificarPerfil(PerfilModel P_Modelo)
+        public async Task<bool> ModificarUsuario(UsuariosModel P_Modelo)
         {
             GestorDeConexiones();
-            string url = "api/Proyecto2/ModificarPerfil";
+            string url = "api/Proyecto2/ModificarUsuario";
             HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
             return resultado.IsSuccessStatusCode;
         }

@@ -1,0 +1,61 @@
+﻿@model Presentacion.Models.UsuariosModel
+
+@{
+    ViewData["Title"] = "Eliminar";
+}
+
+<h1>Eliminar Usuario</h1>
+
+<h3>¿Seguro desea eliminar este registro?</h3>
+<div>
+    <h4>ReservaModel</h4>
+    <hr />
+
+    <form asp-action="Eliminar_Usuario" asp-controller="Usuario" method="post">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="ID_USUARIO" class="control-label"></label>
+            <input asp-for="ID_USUARIO" readonly="readonly" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="EMAIL" class="control-label"></label>
+            <input asp-for="EMAIL" readonly="readonly" class="form-control" />
+            <span asp-validation-for="EMAIL" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PASS" class="control-label"></label>
+            <input asp-for="PASS" readonly="readonly" class="form-control" />
+            <span asp-validation-for="PASS" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="SALT" class="control-label"></label>
+            <input asp-for="SALT" readonly="readonly" class="form-control" />
+            <span asp-validation-for="SALT" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NOMBRE" class="control-label"></label>
+            <input asp-for="NOMBRE" readonly="readonly" class="form-control" />
+            <span asp-validation-for="NOMBRE" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="APELLIDOS" class="control-label"></label>
+            <input asp-for="APELLIDOS" readonly="readonly" class="form-control" />
+            <span asp-validation-for="APELLIDOS" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="TIPO" class="control-label"></label>
+            <input asp-for="TIPO" readonly="readonly" class="form-control" />
+            <span asp-validation-for="TIPO" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+        </div>
+
+    </form>
+    <div>
+        <br />
+        <a asp-action="Index">Volver a la lista</a>
+    </div>
+</div>
