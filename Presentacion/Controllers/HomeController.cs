@@ -16,31 +16,16 @@ namespace Presentacion.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private RepositoryWeb repo;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(RepositoryWeb repo)
         {
-            _logger = logger;
+            this.repo = repo;
         }
-
         public IActionResult Index()
         {
             return View();
         }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        //''''''
-        private RepositoryWeb repo;
-
-        //public HomeController(RepositoryWeb repo)
-        //{
-        //    this.repo = repo;
-        //}
-
 
         [HttpPost]
         public IActionResult Registro(string email, string password, string nombre, string apellidos, string tipo)
