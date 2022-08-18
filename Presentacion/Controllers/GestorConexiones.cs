@@ -160,6 +160,91 @@ namespace Presentacion.Controllers
             return resultado.IsSuccessStatusCode;
         }
         #endregion
+
+        #region RUTA
+        public async Task<List<RutaModel>> ListarRuta(RutaModel P_Entidad)
+        {
+            List<RutaModel> lstresultados = new List<RutaModel>();
+            GestorDeConexiones();
+            string url = "api/Proyecto2/ConsultarRuta";
+            HttpResponseMessage resultado = await Cliente.GetAsync(url);
+
+            if (resultado.IsSuccessStatusCode)
+            {
+                var jsonSTRING = await resultado.Content.ReadAsStringAsync();
+                lstresultados = JsonConvert.DeserializeObject<List<RutaModel>>(jsonSTRING);
+            }
+
+            return lstresultados;
+        }
+
+        public async Task<bool> AgregarRuta(RutaModel P_Modelo)
+        {
+            GestorDeConexiones();
+            string url = "api/Proyecto2/AgregarRuta";
+            HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
+            return resultado.IsSuccessStatusCode;
+        }
+
+        public async Task<bool> EliminarRuta(RutaModel P_Modelo)
+        {
+            GestorDeConexiones();
+            string url = "api/Proyecto2/EliminarRuta";
+            HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
+            return resultado.IsSuccessStatusCode;
+        }
+
+        public async Task<bool> ModificarRuta(RutaModel P_Modelo)
+        {
+            GestorDeConexiones();
+            string url = "api/Proyecto2/ModificarRuta";
+            HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
+            return resultado.IsSuccessStatusCode;
+        }
+        #endregion
+
+        #region RECORRIDO
+        public async Task<List<RecorridoModel>> ListarRecorrido(RecorridoModel P_Entidad)
+        {
+            List<RecorridoModel> lstresultados = new List<RecorridoModel>();
+            GestorDeConexiones();
+            string url = "api/Proyecto2/ConsultarRecorrido";
+            HttpResponseMessage resultado = await Cliente.GetAsync(url);
+
+            if (resultado.IsSuccessStatusCode)
+            {
+                var jsonSTRING = await resultado.Content.ReadAsStringAsync();
+                lstresultados = JsonConvert.DeserializeObject<List<RecorridoModel>>(jsonSTRING);
+            }
+
+            return lstresultados;
+        }
+
+        public async Task<bool> AgregarRecorrido(RecorridoModel P_Modelo)
+        {
+            GestorDeConexiones();
+            string url = "api/Proyecto2/AgregarRecorrido";
+            HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
+            return resultado.IsSuccessStatusCode;
+        }
+
+        public async Task<bool> EliminarRecorrido(RecorridoModel P_Modelo)
+        {
+            GestorDeConexiones();
+            string url = "api/Proyecto2/EliminarRecorrido";
+            HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
+            return resultado.IsSuccessStatusCode;
+        }
+
+        public async Task<bool> ModificarRecorrido(RecorridoModel P_Modelo)
+        {
+            GestorDeConexiones();
+            string url = "api/Proyecto2/ModificarRecorrido";
+            HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
+            return resultado.IsSuccessStatusCode;
+        }
+        #endregion
+
         #endregion
     }
 }

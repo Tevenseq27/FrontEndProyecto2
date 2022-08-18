@@ -1,0 +1,58 @@
+﻿@model Presentacion.Models.RecorridoModel
+
+
+@{
+    ViewData["Title"] = "Eliminar";
+}
+
+<h1>Eliminación Recorrido</h1>
+
+<h3>¿Seguro que desea eliminar este registro?</h3>
+
+<div>
+    <h4>RutaModel</h4>
+    <hr />
+
+    <form asp-action="Eliminar_Recorrido" asp-controller="Recorrido" method="post">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Id" class="control-label"></label>
+            <input asp-for="Id" readonly="readonly" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="IdRutaAsignada" class="control-label"></label>
+            <input asp-for="IdRutaAsignada" readonly="readonly" class="form-control" />
+            <span asp-validation-for="IdRutaAsignada" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PlacaUnidadAsignada" class="control-label"></label>
+            <input asp-for="PlacaUnidadAsignada" readonly="readonly" class="form-control" />
+            <span asp-validation-for="PlacaUnidadAsignada" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="IdChoferAsignado" class="control-label"></label>
+            <input asp-for="IdChoferAsignado" readonly="readonly" class="form-control" />
+            <span asp-validation-for="IdChoferAsignado" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Estado" class="control-label"></label>
+            <input asp-for="Estado" readonly="readonly" class="form-control" />
+            <span asp-validation-for="Estado" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="MontoRecibido" class="control-label"></label>
+            <input asp-for="MontoRecibido" readonly="readonly" class="form-control" />
+            <span asp-validation-for="MontoRecibido" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+        </div>
+
+    </form>
+    <div>
+        <br />
+        <a asp-action="Index">Volver a la lista</a>
+    </div>
+</div>

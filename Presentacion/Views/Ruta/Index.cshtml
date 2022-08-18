@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Presentacion.Models.RutaModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="CrearRuta" asp-controller="Ruta">Crear nueva ruta</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdRuta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TerminalSalida)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TerminalLlegada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantidadParadas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoEstimadoRuta)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdRuta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TerminalSalida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TerminalLlegada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantidadParadas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoEstimadoRuta)
+            </td>
+            <td>
+                @Html.ActionLink("Modificar", "EditaRuta", "Ruta", new { item.IdRuta }, new { @class = "btn btn-primary" }) |
+                @Html.ActionLink("Eliminar", "Eliminar", "Ruta", new { item.IdRuta }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

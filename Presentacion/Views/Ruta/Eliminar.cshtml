@@ -1,0 +1,53 @@
+﻿@model Presentacion.Models.RutaModel
+
+
+@{
+    ViewData["Title"] = "Eliminar";
+}
+
+<h1>Eliminación Ruta</h1>
+
+<h3>¿Seguro que desea eliminar este registro?</h3>
+
+<div>
+    <h4>RutaModel</h4>
+    <hr />
+
+    <form asp-action="Eliminar_Ruta" asp-controller="Ruta" method="post">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="IdRuta" class="control-label"></label>
+            <input asp-for="IdRuta" readonly="readonly" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="TerminalSalida" class="control-label"></label>
+            <input asp-for="TerminalSalida" readonly="readonly" class="form-control" />
+            <span asp-validation-for="TerminalSalida" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="TerminalLlegada" class="control-label"></label>
+            <input asp-for="TerminalLlegada" readonly="readonly" class="form-control" />
+            <span asp-validation-for="TerminalLlegada" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CantidadParadas" class="control-label"></label>
+            <input asp-for="CantidadParadas" readonly="readonly" class="form-control" />
+            <span asp-validation-for="CantidadParadas" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="MontoEstimadoRuta" class="control-label"></label>
+            <input asp-for="MontoEstimadoRuta" readonly="readonly" class="form-control" />
+            <span asp-validation-for="MontoEstimadoRuta" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+        </div>
+
+    </form>
+    <div>
+        <br />
+        <a asp-action="Index">Volver a la lista</a>
+    </div>
+</div>
