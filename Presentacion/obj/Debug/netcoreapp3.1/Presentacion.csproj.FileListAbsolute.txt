@@ -721,7 +721,6 @@ C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcore
 C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdminUsuarios.cshtml.g.cs
-C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaginaProtegida.cshtml.g.cs
 C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
 C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Manage\ErrorAcceso.cshtml.g.cs
 C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Manage\LogIn.cshtml.g.cs
@@ -734,3 +733,5 @@ C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcore
 C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Recorrido\EditaRecorrido.cshtml.g.cs
 C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Recorrido\Eliminar.cshtml.g.cs
 C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Recorrido\Index.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\NormalUsuarios.cshtml.g.cs
+C:\Users\SSequeira\Source\Repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Ruta\Consulta.cshtml.g.cs
