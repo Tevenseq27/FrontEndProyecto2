@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JDlaAwMAykc5W7VeFwFvn4kSUTVG4Woi/u+X96s9AJF9vDzi6Kkpe4iNswPAGW1LoWU6sIX+1zRUUfBCOWLSOw==",
+  "dgSpecHash": "l23DD5S2dAiIMfCY9+pqwYE3qgrCp2DdVHLgW5iFcby2lTft0LVycpU1Y/dBpIM9fG7qxUo1LDsUfrq4onsozg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SSequeira\\Source\\Repos\\FrontEndProyecto2\\Presentacion\\Presentacion.csproj",
+  "projectFilePath": "C:\\Users\\SSequeira\\source\\repos\\FrontEndProyecto2\\Presentacion\\Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SSequeira\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\SSequeira\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.2.0\\microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg.sha512",

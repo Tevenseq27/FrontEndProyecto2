@@ -16,6 +16,10 @@ namespace Presentacion.Models
         public string Estado { get; set; }
         public int? MontoRecibido { get; set; }
 
+        public RutaModel Ruta { get; set; }
+        public BusModel Bus { get; set; }
+        public ChoferModel Chofer { get; set; }
+
         #endregion
 
         #region Constructor
@@ -28,6 +32,9 @@ namespace Presentacion.Models
             IdChoferAsignado = string.Empty;
             Estado = string.Empty;
             MontoRecibido = 0;
+            Ruta = null;
+            Bus = null;
+            Chofer = null;
         }
         #endregion
     }

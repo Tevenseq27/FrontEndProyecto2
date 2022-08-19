@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.Logging;
 using Presentacion.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,8 +19,57 @@ namespace Presentacion.Controllers
             return View(lstresultados);
         }
 
-        public IActionResult CrearRecorrido()
+        public async Task<IActionResult> CrearRecorridoAsync()
         {
+            GestorConexiones objconexion = new GestorConexiones();
+            List<RutaModel> lstRutas = await objconexion.ListarRuta(new RutaModel { IdRuta = 0 });
+            List<BusModel> lstBuses = await objconexion.ListarBus(new BusModel { PlacaUnidad = string.Empty });
+            List<ChoferModel> lstChoferes = await objconexion.ListarChofer(new ChoferModel { IdChofer = string.Empty });
+            //string delimiter = ",";
+
+            //RUTA
+            List<SelectListItem> rutaList = lstRutas.ConvertAll(a =>
+            {
+                return new SelectListItem()
+                {
+
+                    Text = "Id Ruta: " + a.IdRuta.ToString() ,
+                    Value = a.IdRuta.ToString(),
+
+                    Selected = false
+                };
+            });
+
+            //BUS
+            List<SelectListItem> busList = lstBuses.ConvertAll(a =>
+            {
+                return new SelectListItem()
+                {
+
+                    Text = "Placa: " + a.PlacaUnidad.ToString(),
+                    Value = a.PlacaUnidad.ToString(),
+
+                    Selected = false
+                };
+            });
+
+            //CHOFER
+            List<SelectListItem> choferList = lstChoferes.ConvertAll(a =>
+            {
+                return new SelectListItem()
+                {
+
+                    Text = "Id Chofer: " + a.IdChofer.ToString(),
+                    Value = a.IdChofer.ToString(),
+
+                    Selected = false
+                };
+            });
+
+            ViewBag.Rutas = rutaList;
+            ViewBag.Buses = busList;
+            ViewBag.Choferes = choferList;
+
             return View();
         }
 
@@ -26,11 +77,59 @@ namespace Presentacion.Controllers
          {
             int id = datos.Id;
 
-             GestorConexiones objconexion = new GestorConexiones();
-             List<RecorridoModel> lstresultados = await objconexion.ListarRecorrido(new RecorridoModel { Id = id });
-             RecorridoModel recorrido = lstresultados.Find(x => x.Id.Equals(id));
+            GestorConexiones objconexion = new GestorConexiones();
+            List<RecorridoModel> lstresultados = await objconexion.ListarRecorrido(new RecorridoModel { Id = id });
+            RecorridoModel recorrido = lstresultados.Find(x => x.Id.Equals(id));
 
-             return View(recorrido);
+            List<RutaModel> lstRutas = await objconexion.ListarRuta(new RutaModel { IdRuta = 0 });
+            List<BusModel> lstBuses = await objconexion.ListarBus(new BusModel { PlacaUnidad = string.Empty });
+            List<ChoferModel> lstChoferes = await objconexion.ListarChofer(new ChoferModel { IdChofer = string.Empty });
+            //string delimiter = ",";
+
+            //RUTA
+            List<SelectListItem> rutaList = lstRutas.ConvertAll(a =>
+            {
+                return new SelectListItem()
+                {
+
+                    Text = "Id Ruta: " + a.IdRuta.ToString(),
+                    Value = a.IdRuta.ToString(),
+
+                    Selected = false
+                };
+            });
+
+            //BUS
+            List<SelectListItem> busList = lstBuses.ConvertAll(a =>
+            {
+                return new SelectListItem()
+                {
+
+                    Text = "Placa: " + a.PlacaUnidad.ToString(),
+                    Value = a.PlacaUnidad.ToString(),
+
+                    Selected = false
+                };
+            });
+
+            //CHOFER
+            List<SelectListItem> choferList = lstChoferes.ConvertAll(a =>
+            {
+                return new SelectListItem()
+                {
+
+                    Text = "Id Chofer: " + a.IdChofer.ToString(),
+                    Value = a.IdChofer.ToString(),
+
+                    Selected = false
+                };
+            });
+
+            ViewBag.Rutas = rutaList;
+            ViewBag.Buses = busList;
+            ViewBag.Choferes = choferList;
+
+            return View(recorrido);
          }
 
       
@@ -48,7 +147,17 @@ namespace Presentacion.Controllers
         public async Task<IActionResult> Guardar(RecorridoModel P_Modelo)
         {
             GestorConexiones objconexion = new GestorConexiones();
+
+            string idRutatxt = Request.Form["Ruta"].ToString();
+            string placatxt = Request.Form["Bus"].ToString();
+            string idChofertxt = Request.Form["Chofer"].ToString();
+
+            P_Modelo.IdRutaAsignada = Convert.ToInt32(idRutatxt);
+            P_Modelo.PlacaUnidadAsignada = placatxt;
+            P_Modelo.IdChoferAsignado = idChofertxt;
+
             await objconexion.AgregarRecorrido(P_Modelo);
+
             return RedirectToAction("Index");
         }
 
@@ -56,6 +165,15 @@ namespace Presentacion.Controllers
         public async Task<IActionResult> Modificar(RecorridoModel P_Modelo)
         {
             GestorConexiones objconexion = new GestorConexiones();
+
+            string idRutatxt = Request.Form["Ruta"].ToString();
+            string placatxt = Request.Form["Bus"].ToString();
+            string idChofertxt = Request.Form["Chofer"].ToString();
+
+            P_Modelo.IdRutaAsignada = Convert.ToInt32(idRutatxt);
+            P_Modelo.PlacaUnidadAsignada = placatxt;
+            P_Modelo.IdChoferAsignado = idChofertxt;
+
             await objconexion.ModificarRecorrido(P_Modelo);
             return RedirectToAction("Index");
         }

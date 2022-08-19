@@ -23,13 +23,26 @@ namespace Presentacion.Controllers
             return View();
         }
 
+         public string GenerateSalt()
+         {
+                Random random = new Random();
+                string salt = "";
+                for (int i = 1; i <= 50; i++)
+                {
+                    int numero = random.Next(0, 255);
+                    char letra = Convert.ToChar(numero);
+                    salt += letra;
+                }
+            return salt;
+        }
+
         public async Task<IActionResult> EditaUsuario(UsuariosModel user)
         {
             int id = user.ID_USUARIO;
 
             GestorConexiones objconexion = new GestorConexiones();
             List<UsuariosModel> lstresultados = await objconexion.ListarUsuario(new UsuariosModel { ID_USUARIO = id });
-            UsuariosModel objUser = lstresultados.Find(x => x.ID_USUARIO.Equals(user.ID_USUARIO));
+            UsuariosModel objUser = lstresultados.Find(x => x.ID_USUARIO.Equals(id));
 
             return View(objUser);
         }
