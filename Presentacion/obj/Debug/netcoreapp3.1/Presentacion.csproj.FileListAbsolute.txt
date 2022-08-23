@@ -708,6 +708,7 @@ C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcore
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Manage\ErrorAcceso.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Manage\LogIn.cshtml.g.cs
+C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Manage\RegistroUser.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Recorrido\CrearRecorrido.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Recorrido\EditaRecorrido.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Recorrido\Eliminar.cshtml.g.cs
@@ -734,4 +735,3 @@ C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcore
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
-C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Manage\RegistroUser.cshtml.g.cs

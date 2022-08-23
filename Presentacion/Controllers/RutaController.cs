@@ -58,6 +58,7 @@ namespace Presentacion.Controllers
         {
             GestorConexiones objconexion = new GestorConexiones();
             await objconexion.ModificarRuta(P_Modelo);
+            RegistroBitacora(" modificó el detalles de la ruta id " + P_Modelo.IdRuta);
             return RedirectToAction("Index");
         }
 
@@ -74,6 +75,16 @@ namespace Presentacion.Controllers
             GestorConexiones objconexion = new GestorConexiones();
             List<RutaModel> lstresultados = await objconexion.ListarRuta(new RutaModel { IdRuta = 0 });
             return View(lstresultados);
+        }
+
+        public async void RegistroBitacora(string desc)
+        {
+            Bitacora registro = new Bitacora();
+            GestorConexiones objConexion = new GestorConexiones();
+            registro.IdUsuario = GestorConexiones.ClaseCompartida.idUsuario;
+            registro.descripcion = "El usuario " + registro.IdUsuario + desc;
+            registro.IdUsuario = GestorConexiones.ClaseCompartida.idUsuario;
+            await objConexion.AgregarBitacora(registro);
         }
 
     }

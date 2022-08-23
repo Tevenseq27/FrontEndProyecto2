@@ -1,7 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.Logging;
 using Presentacion.Models;
+using RegistroLogin.Data;
+using RegistroLogin.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -30,9 +33,9 @@ namespace Presentacion.Controllers
              GestorConexiones objconexion = new GestorConexiones();
              List<BusModel> lstresultados = await objconexion.ListarBus(new BusModel { PlacaUnidad = id });
              BusModel bus = lstresultados.Find(x => x.PlacaUnidad.Equals(id));
+            RegistroBitacora(" modificó el detalles de la unidad.");
+            return View(bus);
 
-             return View(bus);
-        
          }
 
       
@@ -59,6 +62,7 @@ namespace Presentacion.Controllers
         {
             GestorConexiones objconexion = new GestorConexiones();
             await objconexion.ModificarBus(P_Modelo);
+            RegistroBitacora(" modificó el detalles del bus placa " + P_Modelo.PlacaUnidad);
             return RedirectToAction("Index");
         }
 
@@ -70,5 +74,18 @@ namespace Presentacion.Controllers
             return RedirectToAction("Index");
         }
 
+        #region Bitacora
+
+
+        public async void RegistroBitacora(string desc)
+        {
+            Bitacora registro = new Bitacora();
+            GestorConexiones objConexion = new GestorConexiones();
+            registro.descripcion = "El usuario " + GestorConexiones.ClaseCompartida.idUsuario + desc;
+            registro.IdUsuario = GestorConexiones.ClaseCompartida.idUsuario;
+            await objConexion.AgregarBitacora(registro);
+        }
+
+        #endregion
     }
 }

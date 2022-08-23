@@ -23,18 +23,6 @@ namespace Presentacion.Controllers
             return View();
         }
 
-         public string GenerateSalt()
-         {
-                Random random = new Random();
-                string salt = "";
-                for (int i = 1; i <= 50; i++)
-                {
-                    int numero = random.Next(0, 255);
-                    char letra = Convert.ToChar(numero);
-                    salt += letra;
-                }
-            return salt;
-        }
 
         public async Task<IActionResult> EditaUsuario(UsuariosModel user)
         {

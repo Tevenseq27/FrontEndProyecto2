@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using Presentacion.Models;
+using RegistroLogin.Models;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
@@ -10,6 +11,15 @@ namespace Presentacion.Controllers
 {
     public class GestorConexiones : Controller
     {
+
+        #region Atributos
+        public static class ClaseCompartida
+        {
+            public static string idUsuario;
+            public static string descBitacoreo;
+        }
+        #endregion
+
         #region Propiedad
 
         public HttpClient Cliente { get; set; }
@@ -242,6 +252,16 @@ namespace Presentacion.Controllers
             string url = "api/Proyecto2/ModificarRecorrido";
             HttpResponseMessage resultado = await Cliente.PostAsJsonAsync(url, P_Modelo);
             return resultado.IsSuccessStatusCode;
+        }
+        #endregion
+
+        #region BITACORA
+        public async Task<bool> AgregarBitacora(Bitacora P_Modelo)
+        {
+            GestorDeConexiones();
+            string url = "api/Proyecto2/AgregarBitacora";
+            HttpResponseMessage resultado1 = await Cliente.PostAsJsonAsync(url, P_Modelo);
+            return resultado1.IsSuccessStatusCode;
         }
         #endregion
 

@@ -1,7 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Mvc;
 using Presentacion.Models;
+using RegistroLogin.Models;
+using RegistroLogin.Repositories;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace Presentacion.Controllers
@@ -58,6 +64,7 @@ namespace Presentacion.Controllers
         {
             GestorConexiones objconexion = new GestorConexiones();
             await objconexion.ModificarChofer(P_Modelo);
+            RegistroBitacora(" modificó el detalles del chofer: " + P_Modelo.Nombre1Chofer);
             return RedirectToAction("Index");
         }
 
@@ -70,5 +77,17 @@ namespace Presentacion.Controllers
         }
 
 
+        #region Bitácora
+
+        public async void RegistroBitacora(string desc)
+        {
+            Bitacora registro = new Bitacora();
+            GestorConexiones objConexion = new GestorConexiones();
+            registro.descripcion = "El usuario " + GestorConexiones.ClaseCompartida.idUsuario + desc;
+            registro.IdUsuario = GestorConexiones.ClaseCompartida.idUsuario;
+            await objConexion.AgregarBitacora(registro);
+        }
+
+        #endregion
     }
 }

@@ -175,6 +175,7 @@ namespace Presentacion.Controllers
             P_Modelo.IdChoferAsignado = idChofertxt;
 
             await objconexion.ModificarRecorrido(P_Modelo);
+            RegistroBitacora(" modificó el detalles del recorrido id " + P_Modelo.Id + " Chofer: " + P_Modelo.IdChoferAsignado + " Bus: " + P_Modelo.Bus);
             return RedirectToAction("Index");
         }
 
@@ -184,6 +185,16 @@ namespace Presentacion.Controllers
             GestorConexiones objconexion = new GestorConexiones();
             await objconexion.EliminarRecorrido(P_Modelo);
             return RedirectToAction("Index");
+        }
+
+        public async void RegistroBitacora(string desc)
+        {
+            Bitacora registro = new Bitacora();
+            GestorConexiones objConexion = new GestorConexiones();
+            registro.IdUsuario = GestorConexiones.ClaseCompartida.idUsuario;
+            registro.descripcion = "El usuario " + registro.IdUsuario + desc;
+            registro.IdUsuario = GestorConexiones.ClaseCompartida.idUsuario;
+            await objConexion.AgregarBitacora(registro);
         }
 
     }

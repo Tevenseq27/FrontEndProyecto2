@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
+using Presentacion.Controllers;
 using RegistroLogin.Models;
 using RegistroLogin.Repositories;
 using System;
@@ -50,6 +51,7 @@ namespace RegistroLogin.Controllers
                 //TODO USUARIO PUEDE CONTENER UNA SERIE DE CARACTERISTICAS
                 //LLAMADA CLAIMS.  DICHAS CARACTERISTICAS PODEMOS ALMACENARLAS
                 //DENTRO DE USER PARA UTILIZARLAS A LO LARGO DE LA APP
+
                 Claim claimUserName = new Claim(ClaimTypes.Name, usuario.Nombre);
                 Claim claimRole = new Claim(ClaimTypes.Role, usuario.Tipo);
                 Claim claimIdUsuario = new Claim("IdUsuario", usuario.IdUsuario.ToString());
@@ -65,6 +67,8 @@ namespace RegistroLogin.Controllers
                 {
                     ExpiresUtc = DateTime.Now.AddMinutes(45)
                 });
+
+                GestorConexiones.ClaseCompartida.idUsuario = usuario.IdUsuario.ToString();
 
                 return RedirectToAction("Index", "Home");
             }
