@@ -25,6 +25,11 @@ namespace RegistroLogin.Controllers
             return View();
         }
 
+        public IActionResult RegistroUser()
+        {
+            return View();
+        }
+
         [HttpPost]
         public async Task<IActionResult> Login(string email, string password)
         {

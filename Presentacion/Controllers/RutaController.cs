@@ -69,5 +69,12 @@ namespace Presentacion.Controllers
             return RedirectToAction("Index");
         }
 
+        public async Task<IActionResult> Consulta()
+        {
+            GestorConexiones objconexion = new GestorConexiones();
+            List<RutaModel> lstresultados = await objconexion.ListarRuta(new RutaModel { IdRuta = 0 });
+            return View(lstresultados);
+        }
+
     }
 }

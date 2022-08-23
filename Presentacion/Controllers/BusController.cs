@@ -10,6 +10,7 @@ namespace Presentacion.Controllers
 {
     public class BusController : Controller
     {
+
         public async Task<IActionResult> Index()
         {
             GestorConexiones objconexion = new GestorConexiones();

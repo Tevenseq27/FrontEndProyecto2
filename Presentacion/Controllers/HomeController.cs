@@ -29,11 +29,11 @@ namespace Presentacion.Controllers
             bool registrado = this.repo.RegistrarUsuario(email, password, nombre, apellidos, tipo);
             if (registrado)
             {
-                ViewData["MENSAJE"] = "Usuario registrado con exito";
+                ViewData["MENSAJE"] = "USUARIO REGISTRADO CON ÉXITO";
             }
             else
             {
-                ViewData["MENSAJE"] = "Error al registrar el usuario";
+                ViewData["MENSAJE"] = "ERROR AL REGISTRAR EL USUARIO";
             }
             return View();
         }

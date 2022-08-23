@@ -721,7 +721,6 @@ C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcore
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuLogIn.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditaUsuario.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Eliminar.cshtml.g.cs
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
@@ -735,3 +734,4 @@ C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcore
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
 C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
+C:\Users\SSequeira\source\repos\FrontEndProyecto2\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Manage\RegistroUser.cshtml.g.cs
