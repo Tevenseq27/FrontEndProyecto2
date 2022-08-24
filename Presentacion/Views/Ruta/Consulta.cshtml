@@ -4,31 +4,9 @@
     ViewData["Title"] = "Consulta";
 }
 
-<script runat="server">
-protected void Execute_Clicked(object sender, EventArgs e)
-        {
-            System.Data.SqlClient.SqlConnection objConn = new System.Data.SqlClient.SqlConnection();
-            objConn.ConnectionString = "server=SSEQUIERA_HIO03; database=Proyecto2_SistemaRuteo; uid=sa; pwd=masterkey;";
-            objConn.Open();
-            System.Data.SqlClient.SqlCommand objCmd = new System.Data.SqlClient.SqlCommand("SpListarRuta", objConn);
-            objCmd.CommandType = System.Data.CommandType.StoredProcedure;
-            GridView1.DataSource = objCmd.ExecuteReader();
-            GridView1.DataBind();
-            objConn.Close();
-        }
-</script>
-
 <h1>Consulta Rutas</h1>
 
-
-    <div>
-        <button ID="btnExecute" runat="server" Text="Get Data" OnClick="Execute_Clicked"> CONSULTAR </button>
-        <asp:GridView ID="GridView1" runat="server"></asp:GridView>
-    </div>
-
-
-
-<!--<table class="table">
+<table id="countit" class="table">
     <thead>
         <tr>
             <th>
@@ -39,9 +17,6 @@ protected void Execute_Clicked(object sender, EventArgs e)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.TerminalLlegada)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CantidadParadas)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.MontoEstimadoRuta)
@@ -62,10 +37,7 @@ protected void Execute_Clicked(object sender, EventArgs e)
                 <td>
                     @Html.DisplayFor(modelItem => item.TerminalLlegada)
                 </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.CantidadParadas)
-                </td>
-                <td>
+                <td class="count-me">
                     @Html.DisplayFor(modelItem => item.MontoEstimadoRuta)
                 </td>
             </tr>
@@ -74,4 +46,13 @@ protected void Execute_Clicked(object sender, EventArgs e)
     </tbody>
 </table>
 
-    -->
+<script language="javascript" type="text/javascript">
+    var tds = document.getElementById('countit').getElementsByTagName('td');
+    var sum = 0;
+    for (var i = 0; i < tds.length; i++) {
+        if (tds[i].className == 'count-me') {
+            sum += isNaN(tds[i].innerHTML) ? 0 : parseInt(tds[i].innerHTML);
+        }
+    }
+    document.getElementById('countit').innerHTML += '<tr><td>' + ' TOTAL MONTO ESTIMADO     ₡ ' + sum + '</td><td></td></tr>';
+</script>
